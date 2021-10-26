@@ -1,4 +1,4 @@
-# https://favourene.github.io/fylo/fylo2.html
+
 
 # Frontend Mentor - Fylo landing page with two column layout
 
